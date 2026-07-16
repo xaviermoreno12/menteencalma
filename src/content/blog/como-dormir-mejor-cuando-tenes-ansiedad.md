@@ -26,7 +26,7 @@ pasos: []
 draft: false
 ---
 
-Dormir mejor cuando tenés ansiedad puede parecer una misión imposible, pero no lo es. Con algunos cambios en tus hábitos y una buena dosis de paciencia, podés lograr que esas noches de insomnio sean cosa del pasado. Aquí van algunos consejos que te ayudarán a relajarte y descansar como te merecés.
+Para dormir mejor cuando tenés ansiedad, seguí estos consejos: crea una rutina nocturna y andá a la cama a la misma hora todos los días, desconectá de las pantallas al menos una hora antes de dormir, y hacé ejercicios de respiración o meditación. Además, asegurate de que tu ambiente sea oscuro, fresco y silencioso.
 
 ## ¿Por qué la ansiedad afecta el sueño?
 La ansiedad y el insomnio son como esos amigos que no se quieren separar. Cuando estás ansioso, tu mente no para de dar vueltas, y eso dificulta que puedas caer en un sueño reparador. En lugar de contar ovejas, terminás contando los pendientes del día siguiente o recordando esa conversación incómoda que tuviste hace tres meses. ¡Una locura!
@@ -51,7 +51,7 @@ Lo que comés también influye en tu calidad de sueño. Algunos alimentos pueden
 Un error frecuente es entrar en un ciclo vicioso donde la ansiedad por no poder dormir genera más ansiedad. Si te encontrás en esta situación, es fundamental que busques herramientas efectivas para manejar la ansiedad y el insomnio.
 
 ## ¿Y si nada funciona?
-Si probaste todo y aún te cuesta dormir, no estás solo. Muchas personas enfrentan este desafío y es totalmente válido buscar ayuda. Ya sea hablando con un profesional o explorando recursos como [¿Qué es la ansiedad y cómo se siente? Descubrilo aquí]( /blog/que-es-la-ansiedad-y-como-se-siente/), hay opciones para mejorar tu bienestar emocional.
+Si probaste todo y aún te cuesta dormir, no estás solo. Muchas personas enfrentan este desafío y es totalmente válido buscar ayuda. Ya sea hablando con un profesional o explorando recursos como [¿Qué es la ansiedad y cómo se siente? Descubrilo aquí](/blog/que-es-la-ansiedad-y-como-se-siente/), hay opciones para mejorar tu bienestar emocional.
 
 ## Cierre
 Dormir mejor cuando tenés ansiedad no es sólo un sueño; es una meta alcanzable. Recordá que el camino puede ser un poco largo, pero cada paso que des cuenta. Si querés profundizar en este tema y encontrar herramientas efectivas para la ansiedad, la depresión y el insomnio, no dudes en explorar la **MasterClass Adiós a la Ansiedad, Depresión e Insomnio**. Es una oportunidad para aprender a manejar tus emociones y mejorar tu calidad de vida desde la comodidad de tu casa.

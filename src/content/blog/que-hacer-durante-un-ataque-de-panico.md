@@ -36,7 +36,7 @@ pasos:
 draft: false
 ---
 
-Los ataques de pánico pueden ser aterradores, pero hay varias estrategias que podés usar para manejarlos. Durante un ataque de pánico, lo más importante es recordar que son temporales y que podés aplicar técnicas para calmarte. Aquí te comparto algunos pasos que podés seguir.
+Durante un ataque de pánico, aplicá la técnica de respiración controlada: inhalá por la nariz durante 4 segundos, sostené el aire por 4 segundos y exhalá por la boca durante 4 segundos. Repetí esto varias veces. También podés usar la técnica 5-4-3-2-1 para anclarte a la realidad, identificando 5 cosas que podés ver y 4 que podés tocar.
 
 ## ¿Qué es un ataque de pánico?
 Para entender qué hacer durante un ataque de pánico, primero es bueno saber qué es. Un ataque de pánico es un episodio repentino de miedo intenso que provoca reacciones físicas severas cuando no hay un peligro real. Esto puede incluir palpitaciones, sudoración, temblores y una sensación de que te estás volviendo loco. ¡No te preocupes! No estás solo, y hay formas de enfrentarlo.

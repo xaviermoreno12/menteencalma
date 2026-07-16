@@ -26,7 +26,7 @@ pasos: []
 draft: false
 ---
 
-Los ataques de pánico y la ansiedad son dos experiencias que se parecen, pero presentan diferencias importantes. 
+Los ataques de pánico son episodios repentinos de miedo intenso que duran entre 5 a 20 minutos y pueden incluir síntomas físicos como palpitaciones y dificultad para respirar. En cambio, la ansiedad es una respuesta más persistente ante situaciones estresantes, que puede durar días, semanas o meses y se manifiesta con inquietud y fatiga.
 
 Los ataques de pánico son episodios repentinos de miedo intenso que pueden incluir síntomas físicos como palpitaciones, sudoración y dificultad para respirar, mientras que la ansiedad es una respuesta más generalizada y persistente ante situaciones estresantes. 
 

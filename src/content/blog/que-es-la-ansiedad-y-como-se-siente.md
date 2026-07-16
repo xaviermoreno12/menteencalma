@@ -26,7 +26,7 @@ pasos: []
 draft: false
 ---
 
-La ansiedad es una respuesta normal del cuerpo ante situaciones de estrés, pero puede convertirse en un trastorno cuando se vuelve constante y abrumadora. Las personas que la padecen suelen experimentar síntomas como palpitaciones, sudoración, inquietud y pensamientos apresurados. En este artículo, te contamos más sobre qué es la ansiedad y cómo se siente en el día a día.
+La ansiedad es una respuesta normal del cuerpo ante situaciones de estrés, pero se convierte en un trastorno cuando es constante y abrumadora. Los síntomas más comunes incluyen palpitaciones, sudoración, inquietud y dificultad para concentrarse, afectando la vida diaria de quienes la padecen.
 
 ## La ansiedad: entre el estrés y el desasosiego
 

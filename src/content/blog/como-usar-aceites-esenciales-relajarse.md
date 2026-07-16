@@ -26,7 +26,7 @@ pasos:
 draft: false
 ---
 
-Los aceites esenciales son una herramienta efectiva para relajarte y mejorar tu bienestar emocional. Al utilizarlos, podés disminuir la ansiedad y promover un estado de calma en tu vida diaria. Ya sea a través de difusores o masajes, estas esencias pueden ser tus aliadas para enfrentar los desafíos del día a día.
+Para relajarte con aceites esenciales, podés usar un difusor con 5 a 10 gotas de tu aceite favorito, mezclar 3-4 gotas con un aceite portador para masajes, agregar 5 a 10 gotas a un baño caliente o inhalar una gota directamente de tu palma. Estas técnicas ayudan a reducir el estrés y mejorar tu bienestar.
 
 ## ¿Por qué usar aceites esenciales para relajarse?
 Imaginá que llegás a casa después de un día cansador. El tráfico, las reuniones y las responsabilidades acumuladas pueden dejarte agotado. Ahí es donde entran los aceites esenciales: son como ese abrazo reconfortante que necesitás. Te pueden ayudar a relajar la mente y el cuerpo, y lo mejor es que son una opción natural y accesible para todos.

@@ -36,7 +36,7 @@ pasos:
 draft: false
 ---
 
-Los aceites esenciales para calmar la ansiedad pueden ser una herramienta poderosa para mejorar tu bienestar emocional. Estos aceites extraídos de plantas cuentan con propiedades relajantes y pueden ayudar a disminuir los niveles de estrés, favoreciendo la calma y la tranquilidad. Incorporar aromaterapia en tu rutina diaria puede marcar una gran diferencia.
+Los aceites esenciales como la lavanda, bergamota, ylang ylang y manzanilla son efectivos para calmar la ansiedad. La lavanda ayuda a disminuir la tensión y promueve el sueño, mientras que la bergamota mejora el estado de ánimo. Usalos en un difusor, inhalación directa o masajes con aceite portador.
 
 ## Un respiro en medio del caos
 

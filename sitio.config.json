@@ -1,0 +1,88 @@
+{
+  "sitio": {
+    "nombre": "Mente en Calma",
+    "tagline": "Entender la ansiedad y volver a la calma, un paso a la vez",
+    "dominio": "https://menteencalma.vercel.app",
+    "base": "/",
+    "nicho": "bienestar emocional y manejo de la ansiedad",
+    "idioma": "es",
+    "pais": "AR",
+    "descripcion": "Guías claras y humanas sobre ansiedad, ataques de pánico, estrés y sueño. Información para entender qué te pasa y herramientas suaves para estar mejor, sin reemplazar a un profesional.",
+    "autor": {
+      "nombre": "Valeria Sosa",
+      "rol": "Divulgadora de bienestar emocional",
+      "bio": "Escribo sobre ansiedad, sueño y hábitos para la calma. No soy profesional de la salud: comparto información clara y con fuentes, y siempre recomiendo acompañarla con un profesional."
+    },
+    "ga_id": "",
+    "gsc_verification": "",
+    "email": "hola@menteencalma.com"
+  },
+  "marca": {
+    "color_primario": "#2f9e8f",
+    "color_secundario": "#1f2a44",
+    "color_acento": "#a78bfa",
+    "fondo": "#ffffff",
+    "fuente_titulos": "Fraunces",
+    "fuente_texto": "Inter"
+  },
+  "productos": [
+    {
+      "id": "adios-ansiedad",
+      "codigo": "T87159850F",
+      "nombre": "Adiós a la Ansiedad, Depresión e Insomnio",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/T87159850F?ap=9599",
+      "categoria": "Bienestar",
+      "tema": "Ansiedad y sueño",
+      "rating": 4.8,
+      "descripcion_corta": "MasterClass para entender y manejar la ansiedad, la depresión y el insomnio: qué son, por qué aparecen y hábitos para dormir y sentirte mejor.",
+      "beneficios": [
+        "Entendés qué son la ansiedad, la depresión y el insomnio y por qué aparecen",
+        "Herramientas y hábitos para dormir mejor y calmar la mente",
+        "Alimentación y rutinas que acompañan tu salud emocional"
+      ],
+      "para_quien": "Personas que conviven con ansiedad, bajón anímico o problemas de sueño y quieren entender qué les pasa y estar mejor.",
+      "destacado": true,
+      "pagina_ventas": "https://hotmart.com/es/marketplace/productos/adios-a-la-ansiedad-depresion-e-insomnio/A57198557H?ref=T87159850F"
+    },
+    {
+      "id": "ataques-panico",
+      "codigo": "I87302501F",
+      "nombre": "Ataques de Pánico: Cierra la Puerta a la Ansiedad",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/I87302501F?ap=3bbc",
+      "categoria": "Bienestar",
+      "tema": "Ataques de pánico",
+      "rating": 4.7,
+      "descripcion_corta": "MasterClass sobre ataques de pánico: qué hacer antes, durante y después, cómo entender lo que pasa en tu cuerpo y recuperar la confianza.",
+      "beneficios": [
+        "Qué hacer antes, durante y después de un ataque de pánico",
+        "Entender qué pasa en tu cuerpo para bajar el miedo",
+        "Pasos concretos para retomar tu día a día con calma"
+      ],
+      "para_quien": "Personas que sufren ataques de pánico o ansiedad intensa y quieren herramientas prácticas para atravesarlos.",
+      "pagina_ventas": "https://hotmart.com/es/marketplace/productos/ataques-de-panico-cierra-la-puerta-a-la-ansiedad/V67092885L?ref=I87302501F"
+    },
+    {
+      "id": "aromaterapia-estres",
+      "codigo": "K87302486P",
+      "nombre": "Aromaterapia para la Ansiedad y el Estrés",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/K87302486P?ap=8c2d",
+      "categoria": "Bienestar",
+      "tema": "Aromaterapia",
+      "rating": 4.6,
+      "descripcion_corta": "MasterClass de aromaterapia para calmar la ansiedad y el estrés: aceites esenciales, cómo usarlos y técnicas para relajarte y rendir mejor.",
+      "beneficios": [
+        "Qué aceites esenciales usar para la ansiedad y el estrés",
+        "Cómo aplicarlos en tu rutina para relajarte",
+        "Técnicas para gestionar emociones y mejorar el descanso"
+      ],
+      "para_quien": "Quienes buscan una vía natural y suave para bajar la ansiedad y el estrés del día a día o del deporte.",
+      "pagina_ventas": "https://hotmart.com/es/marketplace/productos/calma-la-ansiedad-y-el-estres-deportivo-con-aromaterapia/N77719072H?ref=K87302486P"
+    }
+  ]
+}

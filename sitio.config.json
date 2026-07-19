@@ -47,7 +47,12 @@
       "para_quien": "Personas que conviven con ansiedad, bajón anímico o problemas de sueño y quieren entender qué les pasa y estar mejor.",
       "destacado": true,
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/adios-a-la-ansiedad-depresion-e-insomnio/A57198557H?ref=T87159850F",
-      "cta_comprar": "Quiero empezar ya 🧘"
+      "cta_comprar": "Quiero empezar ya 🧘",
+      "lead_magnet": {
+        "titulo": "Botiquín de calma: 5 técnicas para bajar la ansiedad en menos de 10 minutos",
+        "gancho": "5 técnicas para bajar la ansiedad en el momento, más un registro semanal",
+        "pdf": "/regalos/botiquin-de-calma.pdf"
+      }
     },
     {
       "id": "ataques-panico",
@@ -67,7 +72,12 @@
       ],
       "para_quien": "Personas que sufren ataques de pánico o ansiedad intensa y quieren herramientas prácticas para atravesarlos.",
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/ataques-de-panico-cierra-la-puerta-a-la-ansiedad/V67092885L?ref=I87302501F",
-      "cta_comprar": "Quiero recuperar mi calma 🌿"
+      "cta_comprar": "Quiero recuperar mi calma 🌿",
+      "lead_magnet": {
+        "titulo": "La tarjeta del pánico: qué hacer ANTES, DURANTE y DESPUÉS de un ataque",
+        "gancho": "La tarjeta imprimible para saber qué hacer ante un ataque de pánico",
+        "pdf": "/regalos/tarjeta-del-panico.pdf"
+      }
     },
     {
       "id": "aromaterapia-estres",
@@ -87,7 +97,12 @@
       ],
       "para_quien": "Quienes buscan una vía natural y suave para bajar la ansiedad y el estrés del día a día o del deporte.",
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/calma-la-ansiedad-y-el-estres-deportivo-con-aromaterapia/N77719072H?ref=K87302486P",
-      "cta_comprar": "Quiero empezar ya 🕯️"
+      "cta_comprar": "Quiero empezar ya 🕯️",
+      "lead_magnet": {
+        "titulo": "7 mezclas de aceites esenciales: dormir mejor, calmar la ansiedad y concentrarte",
+        "gancho": "7 recetas de aceites esenciales con las gotas exactas",
+        "pdf": "/regalos/7-mezclas-aceites.pdf"
+      }
     }
   ]
 }

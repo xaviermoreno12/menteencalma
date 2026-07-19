@@ -10,16 +10,8 @@ const anio = new Date().getFullYear();
       <a href={url('/privacidad')}>Privacidad</a>
       <a href={url('/aviso-afiliados')}>Aviso de afiliados</a>
     </nav>
-    <p class="disclaimer">Este sitio contiene enlaces de afiliado: si comprás a través de ellos podemos recibir una comisión, sin costo extra para vos · <a href={url('/aviso-afiliados')}>Más info</a></p>
-    <p class="disclaimer">
-      <strong>Aviso importante de salud mental:</strong> El contenido de {SITIO.nombre} es informativo
-      y de bienestar general. No reemplaza el acompañamiento de un profesional de la salud mental
-      (psicólogo/a o médico/a) ni constituye un diagnóstico o tratamiento. Si estás atravesando una
-      crisis, tenés pensamientos de hacerte daño o sentís que no podés solo/a, buscá ayuda profesional
-      de inmediato o comunicate con una línea de asistencia de tu país. En Argentina, el Centro de
-      Asistencia al Suicida atiende las 24&nbsp;horas: <strong>135</strong> (CABA y GBA) o
-      <strong>(011)&nbsp;5275-1135</strong>.
-    </p>
+    <p class="footer-crisis">En crisis, llamá al <strong>135</strong> (Arg.).</p>
     <p class="muted">© {anio} {SITIO.nombre}. Todos los derechos reservados.</p>
+    <a class="legal-min" href={url('/terminos')}>Términos y condiciones</a>
   </div>
 </footer>
